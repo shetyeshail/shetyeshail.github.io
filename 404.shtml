@@ -1,0 +1,99 @@
+<html>
+<head>	<title>404!</title>	
+<link rel="stylesheet" href="css/foundation.css" />
+<script src="js/modernizr.js"></script>
+
+<link rel="icon" type="image/ico" href="favicon.ico"/>
+
+</head>
+
+<!--<script type="text/javascript">					//sets the background color of the webpage based on the computer time
+    var currentTime = new Date().getHours();
+	switch (currentTime)
+	{
+	case 0:
+	  document.bgColor = "#000000";
+	  break;
+	case 1:
+	  document.bgColor = "#060913";
+	  break;
+	case 2:
+	  document.bgColor = "#09151B";
+	  break;
+	case 3:
+	  document.bgColor = "#0A1B1F";
+	  break;
+	case 4:
+	  document.bgColor = "#12362A";
+	  break;
+	case 5:
+	  document.bgColor = "#17453F";
+	  break;
+	case 6:
+	  document.bgColor = "#1D5558";
+	  break;
+	case 7:
+	  document.bgColor = "#309091";
+	  break;
+	case 8:
+	  document.bgColor = "#44C18F";
+	  break;
+	case 9:
+	  document.bgColor = "#62C95E";
+	  break;
+	case 10:
+	  document.bgColor = "#ACCC66";
+	  break;
+	case 11:
+	  document.bgColor = "#BAD47D";
+	  break;
+	case 12:
+	  document.bgColor = "#Dbdd60";
+	  break;
+	case 13:
+	  document.bgColor = "#BB943E";
+	  break;
+	case 14:
+	  document.bgColor = "#BB7D3E";
+	  break;
+	case 15:
+	  document.bgColor = "#BB663E";
+	  break;	
+	case 16:
+	  document.bgColor = "#C29F47";
+	  break;	
+	case 17:
+	  document.bgColor = "#A8CC66";
+	  break;	
+	case 18:
+	  document.bgColor = "#6ACD70";
+	  break;	
+	case 19:
+	  document.bgColor = "#6ACDA5";
+	  break;	
+	case 20:
+	  document.bgColor = "#5EABC9";
+	  break;	
+	case 21:
+	  document.bgColor = "#264673";
+	  break;	
+	case 22:
+	  document.bgColor = "#161641";
+	  break;	
+	case 23:
+	  document.bgColor = "#080C17";
+	  break;		  
+	}
+</script>-->
+
+<h1>404!</h1>
+<body <!--background="shuttle.jpeg"//-->
+<!--<img src="shuttle.jpeg" class="stretch" width="100%" height="100%"/>//-->
+<h2>"Houston, we've had a problem."</h2>
+<p>Oops! The page you are looking for does not exist!</p>
+</div>
+<p>Click <a href = "http://shailshetye.x10.mx" target="_self">here</a> to return home.</p>
+</div>
+</body>
+<!--<img src="shuttle.jpeg" alt="Houston, we've had a problem.">//-->
+</html>
