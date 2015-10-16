@@ -35,7 +35,7 @@ body {
 }
 
 body {
-  background: white;
+  background: #ecf0f1;
   color: #222222;
   padding: 0;
   margin: 0;
@@ -2186,7 +2186,7 @@ button, .button {
   border-color: #d9d9d9;
   margin-bottom: 1.25rem;
   padding: 1.25rem;
-  background: #f2f2f2; }
+  background: #e4e4e4; }
   .panel > :first-child {
     margin-top: 0; }
   .panel > :last-child {
