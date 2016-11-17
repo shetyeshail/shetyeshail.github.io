@@ -36,7 +36,7 @@ body {
 
 body {
   /*background: #ecf0f1;*/
-  background: #b2bbbf;
+  background: #e9ecef;
   color: #222222;
   padding: 0;
   margin: 0;
@@ -2812,11 +2812,12 @@ td {
 
 /* Default Link Styles */
 a {
-  color: #2ba6cb;
+  /*color: #2ba6cb;*/
+  color: #0b7285;
   text-decoration: none;
   line-height: inherit; }
-  a:hover, a:focus {
-    color: #2795b6; }
+  /*a:hover, a:focus {
+    color: #2795b6; }*/
   a img {
     border: none; }
 
