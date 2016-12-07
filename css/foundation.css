@@ -71,14 +71,14 @@ a:hover {
 a.temple {color: #a41e35;}
 a.lhd {color: #c53c02;}
 a.mlh {color: #c53c02;}
-a.facebook {color: #3b5998; text-align: center;}
-a.twitter {color: #1da1f2; text-align: center;}
-a.snapchat {color: #fffc00; text-align: center;}
-a.gplus {color: #dd4b39; text-align: center;}
-a.linkedin {color: #0077b5; text-align: center;}
-a.github {color: #4078c0; text-align: center;}
-a.devpost {color: #003e54; text-align: center;}
-a.skype {color: #00aff0; text-align: center;}
+a.facebook {color: #3b5998; text-align: center; justify-content: center;}
+a.twitter {color: #1da1f2; text-align: center; justify-content: center;}
+a.snapchat {color: #fffc00; text-align: center; justify-content: center;}
+a.gplus {color: #dd4b39; text-align: center; justify-content: center;}
+a.linkedin {color: #0077b5; text-align: center; justify-content: center;}
+a.github {color: #4078c0; text-align: center; justify-content: center;}
+a.devpost {color: #003e54; text-align: center; justify-content: center;}
+a.skype {color: #00aff0; text-align: center; justify-content: center;}
 /*end added by Shail*/
 
 img,
