@@ -31,6 +31,17 @@
 #temple_color_title {
   color: #9E1B34;
 }
+#errorbigfont{
+  color: #dc322f;
+  font-size: 12.0rem;
+  line-height: 0rem;
+  font-weight: 800;
+  text-align: right;
+}
+
+#houston{
+  color: #cb4b16;
+}
 
 h2.prompt {
   color: #859900;
