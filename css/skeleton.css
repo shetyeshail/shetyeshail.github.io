@@ -43,7 +43,7 @@
   color: #cb4b16;
 }
 
-h2.prompt {
+h3.prompt {
   color: #859900;
 }
 
@@ -260,6 +260,17 @@ body {
   font-family: 'VT323', monospace;
   background: #002b36;
   color: #839496; }
+
+/*added a custom always-at-the-bottom footer*/
+/*.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #inherit;
+  text-align: center;
+}*/
 
 
 /* Typography
