@@ -43,7 +43,7 @@
   color: #cb4b16;
 }
 
-h2.prompt {
+.prompt {
   color: #859900;
 }
 
@@ -118,6 +118,8 @@ a.devpost {color: #003e54; text-align: center; justify-content: center;}
 a.skype {color: #00aff0; text-align: center; justify-content: center;}
 a.instagram {color: #405de6; text-align: center; justify-content: center;}
 a.ieee {color: #006699; text-align: center; justify-content: center;}
+a.keybase {color: #ff6f21; text-align: center; justify-content: center;}
+a.social {color: #2aa198; text-align: center; justify-content: center;}
 /*end added by Shail*/
 
 
@@ -303,7 +305,12 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #b58900; }
+  color: #b58900;
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
 /*a:hover {
   color: #9E1B34; }*/
 
