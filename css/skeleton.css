@@ -160,15 +160,33 @@ p {
   color: #FFF;
   background: #FF4F00;
   font-style: italic;
+  padding-left: 10px;
+}
+
+/*#linkbar {
+  background: #0B3D91;
+  color: #FFF;
+}*/
+
+#linkbar {
+  font-weight: 400;
+}
+
+#heart {
+  color: #FF4F00;
+  font-size: 1.8rem;
 }
 
 
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #0B3D91; }
+  color: #0B3D91;
+  text-decoration: none; }
 a:hover {
   color: #FF4F00; }
+a.white {
+  color: #FFF; }
 
 
 /* Buttons
