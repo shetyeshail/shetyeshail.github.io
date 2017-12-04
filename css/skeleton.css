@@ -126,8 +126,8 @@ body {
   font-weight: 400;
   font-family: 'Roboto Condensed', sans-serif, "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222;
-  text-transform: uppercase;
-  font-style: italic;}
+  /*text-transform: uppercase;*/
+/*font-style: italic;*/}
 
 
 /* Typography
@@ -154,19 +154,29 @@ h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
 }
 
 p {
-  margin-top: 0; }
+  margin-top: 0;
+  text-indent: 2em;
+  font-family: 'Spectral', serif;
+  font-weight: 200;}
 
 #brighttitle {
   color: #FFF;
   background: #FF4F00;
   font-style: italic;
   padding-left: 10px;
+  margin-bottom: 0px;
 }
 
 /*#linkbar {
   background: #0B3D91;
   color: #FFF;
 }*/
+
+ #social-icons{
+   margin-top: .8em;
+   padding-right: 5%;
+   color: white;
+ }
 
 #linkbar {
   font-weight: 400;
