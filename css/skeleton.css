@@ -167,6 +167,10 @@ p {
   margin-bottom: 0px;
 }
 
+#section-headings {
+  text-transform: uppercase;
+}
+
 /*#linkbar {
   background: #0B3D91;
   color: #FFF;
@@ -174,8 +178,14 @@ p {
 
  #social-icons{
    margin-top: .8em;
-   padding-right: 5%;
+   /*padding-right: 2%;*/
    color: white;
+   display:inline-block;
+   width: 10%;
+   text-align: center;
+ }
+ #social-icons:hover{
+   color: #0B3D91;
  }
 
 #linkbar {
