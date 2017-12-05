@@ -169,6 +169,9 @@ p {
 
 #section-headings {
   text-transform: uppercase;
+  display: inline;
+  margin-right: 1%;
+  vertical-align: text-top;
 }
 
 /*#linkbar {
@@ -182,7 +185,6 @@ p {
    color: white;
    display:inline-block;
    width: 10%;
-   text-align: center;
  }
  #social-icons:hover{
    color: #0B3D91;
@@ -195,6 +197,90 @@ p {
 #heart {
   color: #FF4F00;
   font-size: 1.8rem;
+}
+
+#project-design {
+  background: #E3C84C;
+  display:inline;
+  width:auto;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-top: .5%;
+  padding-bottom: .5%;
+  text-align:center;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  vertical-align: bottom;
+  line-height: 1.35rem;
+  color: black;
+  float: right;
+  margin-left: 2%;
+}
+
+#project-hardware {
+  background: #A2E39F;
+  display:inline;
+  width:auto;
+  border-color: black;
+  border-width: 1px;
+  border-style: solid;
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-top: .5%;
+  padding-bottom: .5%;
+  text-align:center;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  vertical-align: bottom;
+  line-height: 1.35rem;
+  color: black;
+  float: right;
+  margin-left: 2%;
+}
+
+#project-web {
+  background: #9AE1F5;
+  display:inline;
+  width:auto;
+  border-color: black;
+  border-width: 1px;
+  border-style: solid;
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-top: .5%;
+  padding-bottom: .5%;
+  text-align:center;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  vertical-align: bottom;
+  line-height: 1.35rem;
+  color: black;
+  float: right;
+  margin-left: 2%;
+}
+
+#project-orgs {
+  background: #0F6BA3;
+  display:inline;
+  width:auto;
+  border-color: black;
+  border-width: 1px;
+  border-style: solid;
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-top: .5%;
+  padding-bottom: .5%;
+  text-align:center;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  vertical-align: bottom;
+  line-height: 1.35rem;
+  color: white;
+  float: right;
+  margin-left: 2%;
 }
 
 
