@@ -180,11 +180,15 @@ p {
 }*/
 
  #social-icons{
-   margin-top: .8em;
+   margin-top: .6em;
+   padding-bottom: .2em;
    /*padding-right: 2%;*/
    color: white;
    display:inline-block;
    width: 10%;
+   line-height: 1.2;
+   position: relative;
+   vertical-align: middle;
  }
  #social-icons:hover{
    color: #0B3D91;
