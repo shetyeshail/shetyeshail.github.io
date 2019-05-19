@@ -197,6 +197,7 @@ a {
   line-height: 1.4rem;
   text-align: right;
 }
+
 .sectionheading {
   font-family: 'Roboto Condensed', sans-serif;
   font-weight: 700;
@@ -230,7 +231,9 @@ a {
   text-transform: uppercase;
   font-style: italic;
 }
-
+#education-row, #experience-row, #ec-row, #skills-row{
+  padding-top: 5px;
+}
 
 /* Lists
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
