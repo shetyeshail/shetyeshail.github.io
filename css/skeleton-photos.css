@@ -160,8 +160,8 @@ p {
   font-weight: 200;}
 
 #brighttitle {
-  color: #FFF;
-  background: #FF4F00;
+  color: #FF4F00;
+  background: #FFF;
   font-style: italic;
   padding-left: 10px;
   margin-bottom: 0px;
@@ -183,7 +183,7 @@ p {
    margin-top: .6em;
    padding-bottom: .2em;
    padding-right: 2%;
-   color: white;
+   color: #FF4F00;
    display:inline-block;
    width: 10%;
    line-height: 1.2;
@@ -191,7 +191,7 @@ p {
    vertical-align: middle;
  }
  #social-icons:hover{
-   color: #0B3D91;
+   color: white;
  }
 
 #linkbar {
