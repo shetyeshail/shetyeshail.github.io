@@ -203,6 +203,13 @@ a {
   font-weight: 700;
   font-size: 2rem;
 }
+
+.sectionsubheading {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 700;
+  font-size: 1.4rem;
+}
+
 .subheading{
   font-family: 'Roboto Condensed', sans-serif;
   font-weight: 700;
@@ -233,6 +240,12 @@ a {
 }
 #education-row, #experience-row, #ec-row, #skills-row{
   padding-top: 5px;
+}
+#skills{
+  font-family: 'Spectral', serif;
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 1;
 }
 
 /* Lists
