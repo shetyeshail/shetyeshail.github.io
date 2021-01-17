@@ -5,65 +5,59 @@ https://keybase.io/shetyeshail
 I hereby claim:
 
   * I am an admin of https://shailshetye.com
-    * I am shetyeshail (https://keybase.io/shetyeshail) on keybase.
-      * I have a public key with fingerprint F8CC 3F38 D7AA 90D7 002C  14D0 1257 4FC0 54FF 2D9C
+  * I am shetyeshail (https://keybase.io/shetyeshail) on keybase.
+  * I have a public key with fingerprint 6FDB AE82 15CA 7FC2 53EC  1D79 C82E E39C 9FEC 5103
 
-      To do so, I am signing this object:
+To do so, I am signing this object:
 
-      {
-            "body": {
-                      "key": {
-                                    "eldest_kid": "01010712a05240b8b2fb5bd9426b5d1d28a96c94c55ed7cdf708d886d99b9228b48d0a",
-                                                "fingerprint": "f8cc3f38d7aa90d7002c14d012574fc054ff2d9c",
-                                                            "host": "keybase.io",
-                                                                        "key_id": "12574fc054ff2d9c",
-                                                                                    "kid": "01010712a05240b8b2fb5bd9426b5d1d28a96c94c55ed7cdf708d886d99b9228b48d0a",
-                                                                                                "uid": "11d73b6fac9536fc6661f42c4d3cd200",
-                                                                                                            "username": "shetyeshail"
-                                                                                                                    },
-                                                                                                                            "service": {
-                                                                                                                                          "hostname": "shailshetye.com",
-                                                                                                                                                      "protocol": "https:"
-                                                                                                                                                              },
-                                                                                                                                                                      "type": "web_service_binding",
-                                                                                                                                                                              "version": 1
-                                                                                                                                                                                  },
-                                                                                                                                                                                      "ctime": 1482174511,
-                                                                                                                                                                                          "expire_in": 157680000,
-                                                                                                                                                                                              "prev": "670734c6171e3568165a1d67ce585b948c584c2812cbd4d567660852f9d333f7",
-                                                                                                                                                                                                  "seqno": 7,
-                                                                                                                                                                                                      "tag": "signature"
-      }
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0116f40c335440a9fa1f254fbeacae9ed056c632e8d031ab6f22259dd9c8fd4b39410a",
+      "fingerprint": "6fdbae8215ca7fc253ec1d79c82ee39c9fec5103",
+      "host": "keybase.io",
+      "key_id": "c82ee39c9fec5103",
+      "kid": "0116f40c335440a9fa1f254fbeacae9ed056c632e8d031ab6f22259dd9c8fd4b39410a",
+      "uid": "11d73b6fac9536fc6661f42c4d3cd200",
+      "username": "shetyeshail"
+    },
+    "service": {
+      "hostname": "shailshetye.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1610926206,
+  "expire_in": 157680000,
+  "prev": "c15062b0a387c38eb1a04155cad6bc86de24559ca8fc9c777773a0a26ef7b3cc",
+  "seqno": 32,
+  "tag": "signature"
+}
 
-      which yields the signature:
+which yields the signature:
 
-      -----BEGIN PGP MESSAGE-----
-      Version: Keybase OpenPGP v2.0.61
-      Comment: https://keybase.io/crypto
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
 
-      yMIsAnicrZJbSBVBGMePpaYHpJLEiArcIrpYzezuzM6eB0u0l4qudrU47VxWN/Xs
-      6ex6ysSgGxipFRFEWFgQRHRHDSEh81KUJJW9FBlUQhBBVFCEUbN2eeqxmYdh5vv9
-      /9+F6ckaGwqnNNwaSaDeQydSHnSdrg5t3AgW1irU5TVKpFapEKOHqOTC86MVDlci
-      CoByG1C1AFJ1QAlVbYooN3UVU8QhV4llYmbqDCHBDcZtAxBOCOamSU1VJVQnHFhK
-      vmI7sTKRiCecmC9tbcKYZmuEG5ZlAm4AoDKocwBVZOg2A0i3bZWbTArLXS9QyOKo
-      5YkFjivf5CU6Wt4/+P9cd/WvPJAbGsW2xUykYZthjKGtq0znGuMqAAHoiUTMqhKS
-      9sqFXyO8csupVOryFRlIOkwEsw2a+QvJ8C9yAXOrpEM84foucytlsNz3414kEPs1
-      8YDeKWj0t0+UOjEupykVSZHwHDemRKAkme8ExlAnKjR0BGG+InbFnYSIOgGBDEyA
-      XEEekZSW2ACGpjMMDSg0hAnEyIIcG0wggqipE4aIzlQCVUa5zhE2MAYEqbbJNU2z
-      DSXobEfMVSKGLNMqC3pyymKWX50QSt2d21tSQynhUHramOCXhcKZE/78vUvpGaG+
-      pq0nPubgWz2rSlqOPb05srhtfF5W+4VT2fR7/qsp+z+n7S1undLR1/r4Zu67g/s6
-      r/p3X50d7P1RVVj4ejhjSf/Qju5tS6sWucsHpr7tKVjbdrlte/fuztLn19bfPdOe
-      V//sR46bu/L1uhWH8cpP07dkvBjXfOD05DknjzwZeDDb7N8cO3rcv9JYQs98rU9e
-      FJ3DNzaHpm1aPVCQ1ZQ9a+7Q/Lov7WtKGumFK+ez92zIdB/NvpxxqujixLWLikov
-      wW/vx4Wn+Uebd80cmfsSkEkF9Y0v3+zriERahq6nTSrtON/zseZeoXd8xoR5A133
-      hwuWFT/8kJqyqiG5d+fB3PC55kNK4+Llgz8BLnRAeA==
-      =uMjt
-      -----END PGP MESSAGE-----
+yMFFAnicrZK9ixNBGMY3JgoGBDkkpR8Dp00M87Ezu5NGKxGsxEYsLs7HO8lyud3c
+7iZeOGJjKQh2FqL9IQha2Qgnigf3D9hfe+CBaKOFM/GjsnSaZfb9Pc887zvz/lQz
+anf2egdPnx/ebDb2d59No7utvfvbSBd2jvrbaB2WHxhbqOrBemZRH2FChIuxYYzH
+MVbSKeIoj50GZRRIsJgLIxiF1GJGlBaOUsqltdKkzsaayZhghbrIZfkQykmZ5bW3
+Fc5qBSkl3KjEGcoZGGITL6IATBrpwHCCmReOiioofDitKuhlhf/nN4NlvH/w/zn3
+dGlHfDjmIWUkZ8IZIQRxMTWxZcZSjANYQZmrDfB0NYJ6DtVIZWO06CJfmGUGwmxD
+M38hX/5F9kyx4R0mZVEXphj74qiuJ1U/iOv5JND3QA9++wx0lls/Ta+YQVllRY76
+xJOmzoIxEQRLKigWXQRbk6yEQRYInogU+xXOgVmYHeFYUI0VSxPDUtBE4ZhwfyNW
+aJMKCzTmXBqVOiNNEhZTWFEBLtHMGBQ628wL1GfU51TD0FQ2zFU9LQEt3q21ok47
+OnH8WHhlUfvk6T9vb+dWI7p6/fLnB8Xq/tm3b858/fDo4OFOtLj98fCouTJe+bT6
+JW1EW+jba/34xZXh7MkPe7R76eV5eudG59oFtPbqojz3vfUTJV3kVg==
+=dfgr
+-----END PGP MESSAGE-----
 
-      And finally, I am proving ownership of this host by posting or
-      appending to this document.
+And finally, I am proving ownership of this host by posting or
+appending to this document.
 
-      View my publicly-auditable identity here: https://keybase.io/shetyeshail
+View my publicly-auditable identity here: https://keybase.io/shetyeshail
 
-      ==================================================================
-
+==================================================================
